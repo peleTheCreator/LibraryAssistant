@@ -1,0 +1,9 @@
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\bin\Debug\netcoreapp2.2\LibraryAssistant.Core.deps.json
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\bin\Debug\netcoreapp2.2\LibraryAssistant.Core.dll
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\bin\Debug\netcoreapp2.2\LibraryAssistant.Core.pdb
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.csproj.CoreCompileInputs.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.AssemblyInfoInputs.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.AssemblyInfo.cs
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.dll
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.pdb
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant.Core\obj\Debug\netcoreapp2.2\LibraryAssistant.Core.csprojAssemblyReference.cache

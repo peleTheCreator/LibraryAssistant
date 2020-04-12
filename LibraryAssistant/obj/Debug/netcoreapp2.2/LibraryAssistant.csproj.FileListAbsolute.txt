@@ -1,0 +1,14 @@
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.csproj.CoreCompileInputs.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.RazorAssemblyInfo.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.RazorAssemblyInfo.cs
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.AssemblyInfoInputs.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.AssemblyInfo.cs
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\bin\Debug\netcoreapp2.2\LibraryAssistant.deps.json
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\bin\Debug\netcoreapp2.2\LibraryAssistant.runtimeconfig.json
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\bin\Debug\netcoreapp2.2\LibraryAssistant.runtimeconfig.dev.json
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\bin\Debug\netcoreapp2.2\LibraryAssistant.dll
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.RazorTargetAssemblyInfo.cache
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\bin\Debug\netcoreapp2.2\LibraryAssistant.pdb
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.dll
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.pdb
+C:\Users\23490\Desktop\LibraryApp\LibraryAssistant\LibraryAssistant\obj\Debug\netcoreapp2.2\LibraryAssistant.csprojAssemblyReference.cache
